@@ -1,6 +1,4 @@
 
-
-```markdown
 # Handmade Products Website
 
 This repository contains the code for a website showcasing and selling handmade products made from recycled materials.
